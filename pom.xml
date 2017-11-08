@@ -163,7 +163,7 @@
           <resources>
             <labels>
               <all>
-                <space>osio-builder-test-vertx</space>
+                <space>osio-master-jenkins-test</space>
               </all>
             </labels>
           </resources>
