@@ -163,7 +163,7 @@
           <resources>
             <labels>
               <all>
-                <space>osio-master-jenkins-test</space>
+                <space>testme</space>
               </all>
             </labels>
           </resources>
