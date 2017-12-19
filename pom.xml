@@ -163,7 +163,7 @@
           <resources>
             <labels>
               <all>
-                <space>osio-che-testing</space>
+                <space>osio-jenkins-32-64</space>
               </all>
             </labels>
           </resources>
